@@ -3,7 +3,7 @@ import { QRCodeSVG } from 'qrcode.react'
 
 // EDIT: once deployed, point this at the real Amplify URL, e.g.
 // https://main.xxxxxxx.amplifyapp.com/#/card-front (etc per touchpoint)
-const BASE_URL = 'https://irh-ai-assistant.example.amplifyapp.com/#'
+const BASE_URL = 'https://main.d2llxfb8l9kp9d.amplifyapp.com/#'
 
 export default function CardMockups() {
   return (
