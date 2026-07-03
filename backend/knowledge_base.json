@@ -1,0 +1,47 @@
+{
+  "company": {
+    "name": "IRH Global Trading & Investment",
+    "tagline": "A globally integrated commodity trading and investment platform",
+    "overview": "IRH is a diversified commodity trading, investment, and structured finance group operating across energy, metals, and agricultural markets. IRH combines physical trading expertise with capital allocation and origination capabilities to serve producers, consumers, financial institutions, and governments worldwide.",
+    "headquarters": "Abu Dhabi, UAE",
+    "founded": "2024",
+    "ceo": {
+      "name": "Vineet Mehra",
+      "title": "Chief Executive Officer",
+      "assistant": {
+        "name": "Refilwe Mokwena",
+        "role": "Executive Assistant- Trading and Investment",
+        "email": "refilwe.mokwena@irh.ae"
+      }
+    }
+  },
+  "commodities": [
+    {"name": "LNG", "description": "Origination, offtake, and trading of liquefied natural gas cargoes across Atlantic and Pacific basins."},
+    {"name": "Copper", "description": "Physical trading and structured offtake of copper concentrate, cathode, and refined products."},
+    {"name": "Crude & Products", "description": "Global crude oil and refined products trading, blending, and logistics."},
+    {"name": "Iron Ore", "description": "Sourcing and trading of iron ore fines, lump, and pellets for steel producers."},
+    {"name": "Uranium", "description": "Uranium trading and structured supply arrangements for nuclear fuel cycle participants."},
+    {"name": "Lithium", "description": "Trading and offtake solutions for lithium chemicals supporting the battery and EV supply chain."},
+    {"name": "Agri and Soft Products", "description": "Trading of grains, oilseeds, sugar, and other soft commodities."}
+  ],
+  "investment_strategy": "IRH allocates capital across the commodity value chain, pairing physical trading flows with strategic equity, structured debt, and infrastructure investments. The strategy prioritizes long-term partnerships in supply-constrained or supply-critical commodities, integration between origination and logistics, and disciplined risk management across price, credit, and counterparty exposure.",
+  "global_operations": [
+    {"region": "Middle East", "detail": "Group headquarters in Abu Dhabi, UAE, covering origination, trading, and structuring."},
+    {"region": "Africa", "detail": "Offices supporting mining, agriculture, and energy origination across key producing countries."},
+    {"region": "Asia", "detail": "Trading and offtake relationships across major consuming markets."},
+    {"region": "Europe", "detail": "Structured finance and risk management desks."}
+  ],
+  "financing_solutions": [
+    "Trade finance and pre-export/prepayment facilities",
+    "Structured commodity finance",
+    "Risk management and hedging solutions",
+    "Origination and structuring for producers and off-takers",
+    "M&A advisory and strategic investment"
+  ],
+  "faq": [
+    {"q": "What commodities does IRH trade?", "a_hint": "List commodities from the commodities section."},
+    {"q": "What is IRH's investment strategy?", "a_hint": "Summarize investment_strategy."},
+    {"q": "Where does IRH operate globally?", "a_hint": "Summarize global_operations."},
+    {"q": "What financing solutions does IRH provide?", "a_hint": "List financing_solutions."}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "teams": [
+    {"topic": "LNG", "contact_name": "Lara Peel", "email": "Lara.Peel@irh.ae"},
+    {"topic": "Copper", "contact_name": "Harshdeep Singh Bhatia", "email": "Harshdeep.Bhatia@irh.ae"},
+    {"topic": "Crude & Products", "contact_name": "Anu Gupta", "email": "Anu.Gupta@irh.ae"},
+    {"topic": "Iron Ore", "contact_name": "EDIT: Name", "email": "ironore@irh-example.com"},
+    {"topic": "Uranium", "contact_name": "EDIT: Name", "email": "uranium@irh-example.com"},
+    {"topic": "Lithium", "contact_name": "EDIT: Name", "email": "lithium@irh-example.com"},
+    {"topic": "Trade Finance", "contact_name": "EDIT: Name", "email": "tradefinance@irh-example.com"},
+    {"topic": "Shipping/Freight", "contact_name": "EDIT: Name", "email": "shipping@irh-example.com"},
+    {"topic": "Agri and Soft Products", "contact_name": "EDIT: Name", "email": "agri@irh-example.com"},
+    {"topic": "Risk Management", "contact_name": "Kristiaan Behiels", "email": "kristiaan.behiels@irh.ae"},
+    {"topic": "M&A", "contact_name": "EDIT: Name", "email": "ma@irh-example.com"},
+    {"topic": "Origination & Structuring", "contact_name": "EDIT: Name", "email": "origination@irh-example.com"}
+  ],
+  "ceo_meeting_route": {
+    "principal": "Vineet Mehra",
+    "gatekeeper_name": "Refilwe Mokwena",
+    "gatekeeper_role": "Executive Assistant- Trading and Investment",
+    "gatekeeper_email": "refilwe.mokwena@irh.ae",
+    "required_fields": ["requester_name", "company", "purpose", "topic", "preferred_location", "preferred_dates", "contact_email"]
+  },
+  "supplier_partner_route": {
+    "contact_name": "EDIT: Name",
+    "email": "partners@irh-example.com"
+  }
+}
